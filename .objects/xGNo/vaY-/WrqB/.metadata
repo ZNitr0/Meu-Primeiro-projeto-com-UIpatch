@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com.br Novidades na Amazon Os m",
+  "Type": "Screen",
+  "Id": "WrqBCBliN0uZz0avxebNmA",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/WrqBCBliN0uZz0avxebNmA",
+  "ParentRef": "hVVEz5p9bUWBv0hvGWJrag/vaY-a4L3vEe_tATRgP1KyA",
+  "Created": "2025-05-31T15:11:23.7808736Z",
+  "Updated": "2025-05-31T15:11:23.7808736Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

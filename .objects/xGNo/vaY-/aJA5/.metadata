@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Amazon.com.br  Tudo pra você, de A a Z.",
+  "Type": "Screen",
+  "Id": "aJA5v_wdQEmKlTt7iJJ4ww",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/aJA5v_wdQEmKlTt7iJJ4ww",
+  "ParentRef": "hVVEz5p9bUWBv0hvGWJrag/vaY-a4L3vEe_tATRgP1KyA",
+  "Created": "2025-05-31T15:00:56.5141876Z",
+  "Updated": "2025-05-31T15:00:56.5141876Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

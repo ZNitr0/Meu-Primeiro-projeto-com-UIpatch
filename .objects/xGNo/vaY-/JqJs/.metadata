@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com.br Mais Vendidos Cozinha - ",
+  "Type": "Screen",
+  "Id": "JqJsoFBkUE-h7j3UdkcfhA",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/JqJsoFBkUE-h7j3UdkcfhA",
+  "ParentRef": "hVVEz5p9bUWBv0hvGWJrag/vaY-a4L3vEe_tATRgP1KyA",
+  "Created": "2025-05-31T15:57:01.1683354Z",
+  "Updated": "2025-05-31T15:57:01.1683354Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

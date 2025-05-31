@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com.br  Tudo pra você, de A a Z",
+  "Type": "Screen",
+  "Id": "AKn4w87_uEChJuG6hyrrZg",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/AKn4w87_uEChJuG6hyrrZg",
+  "ParentRef": "hVVEz5p9bUWBv0hvGWJrag/GQmApHqCMUa-JcMR9Hw7ug",
+  "Created": "2025-05-31T14:58:04.7000017Z",
+  "Updated": "2025-05-31T14:58:04.7000017Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

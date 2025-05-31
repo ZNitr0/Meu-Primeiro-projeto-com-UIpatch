@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Amazon.com.br  Tudo pra você, de A a Z.",
+  "Type": "App",
+  "Id": "xGNopYD7X0-j3FP02aE-DA",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/xGNopYD7X0-j3FP02aE-DA",
+  "Created": "2025-05-31T15:00:56.5092501Z",
+  "Updated": "2025-05-31T15:00:56.5092501Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

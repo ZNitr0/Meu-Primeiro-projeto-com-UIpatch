@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Amazon.com.br  Tudo pra você, de A a Z.",
+  "Type": "App",
+  "Id": "lsJH9JS5_0yEouOtGlbAyw",
+  "Reference": "hVVEz5p9bUWBv0hvGWJrag/lsJH9JS5_0yEouOtGlbAyw",
+  "Created": "2025-05-31T14:58:04.6347945Z",
+  "Updated": "2025-05-31T14:58:04.6347945Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
